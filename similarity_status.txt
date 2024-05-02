@@ -1,0 +1,1 @@
+Similarity score between texts: 0.67
